@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### My name is Anastasiia and I am Frontend Developer.
+
+#### My Stack
+
+* HTML
+* CSS
+* Bootstrap
+* JavaScript
+* JQuery
+* Git | GitHub
+* VSCode | Atom

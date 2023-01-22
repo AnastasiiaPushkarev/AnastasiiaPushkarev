@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 #### My Stack
 
 * HTML
-* CSS
+* CSS | SCSS
 * Bootstrap
-* JavaScript
-* JQuery
+* JavaScript | JQuery
 * Git | GitHub
 * VSCode | Atom

@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 ### My name is Anastasiia and I am Frontend Developer.
 
+- 🔭 I’m currently working on Weather App 
+- 🌱 I’m currently learning API
+
 #### My Stack
 
 * HTML
